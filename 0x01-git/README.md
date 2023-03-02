@@ -1,1 +1,2 @@
-Hi This is my first real project
+Hi, This is Abdallah.
+I'm a student at Alx
